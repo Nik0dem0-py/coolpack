@@ -751,6 +751,11 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "8bb4b9e75559d702f5fbd5859f100f0223f41696cb946a5d50e4c7b3a7aa37a5"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "d8d0ba4b8aabe19eca98697d3f56eba5a5ba203e6877be38e5f99e597ba2842e"
 metafile = true
