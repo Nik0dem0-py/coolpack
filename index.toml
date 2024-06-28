@@ -205,10 +205,6 @@ file = "config/languagereload.json"
 hash = "5a879e74d7184f4797103e40698d394bab2fc26b42ca9b22c6bc3b96acfb2ddf"
 
 [[files]]
-file = "config/letmedespawn.json"
-hash = "3daa62159d430b28044aa44a40274a4e209ab756bfc7f038b3f02e0b1a8f2850"
-
-[[files]]
 file = "config/litematica.json"
 hash = "ea08763f0523f7b67fdedd256720ea32b67379b7a64859f7ce676ede207e7b04"
 
@@ -750,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
-metafile = true
-
-[[files]]
-file = "mods/let-me-despawn.pw.toml"
-hash = "01343863c5e7de69db0d6c38258b74a542a623292d3058498cee9631e7c4ef0a"
 metafile = true
 
 [[files]]
