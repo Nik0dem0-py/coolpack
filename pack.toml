@@ -1,4 +1,4 @@
-name = "coolpack"
+name = "Coolpack"
 author = "abc and nick"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9430c06fe93e1fae889bb03a74371b2f1d7e4138bc825ba5c22cd95d1c7a8e29"
+hash = "de31b443a35212788a7ec928ca4eabfe5c2083b17475727db336bdf870839be5"
 
 [versions]
 fabric = "0.15.11"

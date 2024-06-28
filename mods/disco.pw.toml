@@ -1,0 +1,13 @@
+name = "Disco"
+filename = "disco-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MufVrNsv/versions/MDCp49IX/disco-2.0.8.jar"
+hash-format = "sha1"
+hash = "b3c5da7f09c12c326340fd4291f895212643de3b"
+
+[update]
+[update.modrinth]
+mod-id = "MufVrNsv"
+version = "MDCp49IX"

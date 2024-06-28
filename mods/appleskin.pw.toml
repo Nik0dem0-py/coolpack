@@ -3,11 +3,11 @@ filename = "appleskin-fabric-mc1.20.3-2.5.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/pmFyu3Sz/appleskin-fabric-mc1.20.3-2.5.1.jar"
 hash-format = "sha1"
 hash = "d8c8f47cadf0bec89b0539f44e3c67df73d8e048"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4953893
-project-id = 248787
+[update.modrinth]
+mod-id = "EsAfCjCV"
+version = "pmFyu3Sz"
