@@ -851,6 +851,11 @@ hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "9c979f850c3eff61a3eafef3e38ef4b9260bff53e07f8b0595adb904cdeae09a"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "c352936853c79744b3b4911e82f5aa3756a81d341c1bd35c70cf6b3abaefff54"
 metafile = true
