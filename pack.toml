@@ -1,0 +1,13 @@
+name = "coolpack"
+author = "abc and nick"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9430c06fe93e1fae889bb03a74371b2f1d7e4138bc825ba5c22cd95d1c7a8e29"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"
