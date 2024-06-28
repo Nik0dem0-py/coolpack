@@ -45,10 +45,6 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
-file = "config/audioplayer/audioplayer-server.properties"
-hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
-
-[[files]]
 file = "config/capes.json5"
 hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 
@@ -339,10 +335,6 @@ hash = "d6df6b4dfedd71dc33345cb34eba48bd4cea168f1c325938f071481b48b8b509"
 [[files]]
 file = "config/toms_storage.json"
 hash = "ebd3d7ddf4e75b9b293bb6e389110a25a17ff1f1de4d3ea931d73368f6347039"
-
-[[files]]
-file = "config/urlmusicdiscs/ffmpeg/ffmpeg.zip"
-hash = "08495d57e93b0a802b76e2d301e8f31918fb6f830e2c9dfbdbb058bf6951c663"
 
 [[files]]
 file = "config/urlmusicdiscs/urlmusicdiscs.json"
