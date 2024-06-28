@@ -682,11 +682,6 @@ hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
 metafile = true
 
 [[files]]
-file = "mods/fps-reducer.pw.toml"
-hash = "f859015dcf54afafd753bec2f86d151a99ded743935591e8876ac1582d6a9e38"
-metafile = true
-
-[[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "7a7476bc55ba5815e6e2f56a53536ae20efa11ac2f5bd08e4ab453b799682960"
 metafile = true
@@ -886,7 +881,7 @@ hash = "73b27be6011d0beeaacbbad2631f94c949a8865e4573f3d41c80520ec1035262"
 metafile = true
 
 [[files]]
-file = "mods/top-hits-69 (1).jar"
+file = "mods/top-hits-69.jar"
 hash = "27af48b6a37f2d823e7400281f15e34cefe756281bdb051da6a0282d5c4ec5fa"
 
 [[files]]
