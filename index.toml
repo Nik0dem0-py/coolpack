@@ -488,6 +488,11 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/automated-crafting.pw.toml"
+hash = "637df36451dc1898dfeecf5837d9d0ae8ffc93840252f04de3615dff32be82d9"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -743,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
+metafile = true
+
+[[files]]
+file = "mods/linkart-updated.pw.toml"
+hash = "58837cc9de4268910d3289c01c46dfa9af34a5ccf7e9ae94204b06a5be677e30"
 metafile = true
 
 [[files]]
