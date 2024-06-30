@@ -508,11 +508,6 @@ hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
 
 [[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "6dc16648c4b9f4dbb2b27e2f8cbfc88984464ecce908c3cc2fe6106ca8223b77"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8c8a9578de59d6ceb9a1d6ca825b1ce8a3a679a35bd91513a8ad7bb54c925f9c"
 metafile = true
@@ -568,15 +563,6 @@ hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
-file = "mods/disco-2.0.8.jar"
-hash = "cd30fefff495c900847e38ba8e43a345a71c6e3fcfa92a453b18e89c37866d9e"
-
-[[files]]
-file = "mods/disco.pw.toml"
-hash = "3da5e9c9ce2292ff61afedbc83a13556e478b8780c204b8f8204feb8b6e06f2e"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c778fc74d505983f1816b8bb82d61cbfd1eecfff22de7b9c349b9ac27f11e35a"
 metafile = true
@@ -587,18 +573,8 @@ hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "bf3f7277039b19252017cb7b5175ce20c10434d195c8d58142f465fb516c1793"
-metafile = true
-
-[[files]]
-file = "mods/emi-trades-villager-trading-emi-plugin.pw.toml"
-hash = "dcf242860e4c8e61e25d6a698fdad00f58ca389d0e17cb9a9be21223ebaa5532"
 metafile = true
 
 [[files]]
@@ -609,11 +585,6 @@ metafile = true
 [[files]]
 file = "mods/emienchants.pw.toml"
 hash = "e395cd7042592ab28ff8de5d89bd1070cce98c60cef43dc18d1dfe3e34546634"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
 metafile = true
 
 [[files]]
@@ -713,12 +684,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
+hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "7734f19649a77ef51547f05058550ea8e6b517f426acc735371181be55318e50"
+hash = "9b38b604a7475e8cf3f099c1117598ede3e9dc3588f3c02dce902c783847d090"
 metafile = true
 
 [[files]]
@@ -751,23 +722,8 @@ hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
 metafile = true
 
 [[files]]
-file = "mods/linkart-updated.pw.toml"
-hash = "58837cc9de4268910d3289c01c46dfa9af34a5ccf7e9ae94204b06a5be677e30"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "8bb4b9e75559d702f5fbd5859f100f0223f41696cb946a5d50e4c7b3a7aa37a5"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "d8d0ba4b8aabe19eca98697d3f56eba5a5ba203e6877be38e5f99e597ba2842e"
 metafile = true
 
 [[files]]
@@ -798,11 +754,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "1447b2cbf7c1d96fd410f85fdd029c1de4a4f8709d09146e602b6054065e49c0"
 metafile = true
 
 [[files]]
@@ -881,11 +832,6 @@ hash = "9c979f850c3eff61a3eafef3e38ef4b9260bff53e07f8b0595adb904cdeae09a"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "c352936853c79744b3b4911e82f5aa3756a81d341c1bd35c70cf6b3abaefff54"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
@@ -904,10 +850,6 @@ metafile = true
 file = "mods/toms-storage.pw.toml"
 hash = "73b27be6011d0beeaacbbad2631f94c949a8865e4573f3d41c80520ec1035262"
 metafile = true
-
-[[files]]
-file = "mods/top-hits-69.jar"
-hash = "27af48b6a37f2d823e7400281f15e34cefe756281bdb051da6a0282d5c4ec5fa"
 
 [[files]]
 file = "mods/yacl.pw.toml"
