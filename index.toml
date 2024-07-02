@@ -493,11 +493,6 @@ hash = "66756f58c37126442ee0d792f15bcbb6a8bf57a192c86d1fb4e18d4be58a930f"
 metafile = true
 
 [[files]]
-file = "mods/automated-crafting.pw.toml"
-hash = "637df36451dc1898dfeecf5837d9d0ae8ffc93840252f04de3615dff32be82d9"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
