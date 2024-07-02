@@ -518,6 +518,11 @@ hash = "9da003a638c9941d44af178eebc1988680ccf2992e0ee321e487060200f6d055"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "fdc5fe878f1768219f9d9d484e5da28ee4196dc8889b2545181f23c576db719e"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
@@ -575,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c778fc74d505983f1816b8bb82d61cbfd1eecfff22de7b9c349b9ac27f11e35a"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "5bb26fb13d301df2d75c93893ca7adb6ff0cc23a20a83bc2aa6016be13cfc50d"
 metafile = true
 
 [[files]]
