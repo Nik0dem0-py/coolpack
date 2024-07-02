@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/LocalSkin/skins/CarotaIgnis.png"
+hash = "6ad101337068614cfb5f7bf889f74d9d3def83b9c6153e61d3ef17b1fd026ff5"
+
+[[files]]
 file = "config/.puzzle_cache/mojangstudios.png"
 hash = "27d2a588a33e94aff8cea4ea6090509ab3e10640f980e63dfd317c6b0dcd30df"
 
