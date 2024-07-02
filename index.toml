@@ -488,6 +488,11 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/auto-workstations-fabric.pw.toml"
+hash = "66756f58c37126442ee0d792f15bcbb6a8bf57a192c86d1fb4e18d4be58a930f"
+metafile = true
+
+[[files]]
 file = "mods/automated-crafting.pw.toml"
 hash = "637df36451dc1898dfeecf5837d9d0ae8ffc93840252f04de3615dff32be82d9"
 metafile = true
@@ -509,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8c8a9578de59d6ceb9a1d6ca825b1ce8a3a679a35bd91513a8ad7bb54c925f9c"
+hash = "9da003a638c9941d44af178eebc1988680ccf2992e0ee321e487060200f6d055"
 metafile = true
 
 [[files]]
@@ -569,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
+hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
