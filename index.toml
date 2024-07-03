@@ -59,6 +59,11 @@ hash = "58da1cc51346fe035d9faa0446340b0d9fcdc3a925706bc8d101c33907fd3f0f"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8f3e01ad47042d186087576cd17e91f78576295e7ca16fb885550910cb97caa4"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "fdc5fe878f1768219f9d9d484e5da28ee4196dc8889b2545181f23c576db719e"
 metafile = true
