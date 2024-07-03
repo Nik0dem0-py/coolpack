@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -343,6 +343,11 @@ hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "fc7728e23b8fd9db80b131a49213621427e071512af390e464330d06c7a8e09e"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "00e0b1c8ea87947a02358597a358fc24e542086ad8cd03b885e51a71fe189b66"
 metafile = true
@@ -415,6 +420,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
 metafile = true
 
 [[files]]
