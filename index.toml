@@ -333,6 +333,11 @@ hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
+file = "mods/more-chests.pw.toml"
+hash = "9f1b4449ac188d4e50e19cb6f11ffa83cf2f3758881a096cfddaf28348554f29"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true

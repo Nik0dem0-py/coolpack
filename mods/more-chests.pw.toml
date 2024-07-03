@@ -1,0 +1,13 @@
+name = "More Chests"
+filename = "morechests-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7afee3255209434598e7c9c81b9a2b0c328315b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4978687
+project-id = 737045
