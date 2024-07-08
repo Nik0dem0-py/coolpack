@@ -204,6 +204,11 @@ hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "92d6b1785b947ec4c6998841b72eae58cb6323e59bd2dfe02f7ec848c244acd8"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
 metafile = true
