@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "58da1cc51346fe035d9faa0446340b0d9fcdc3a925706bc8d101c33907fd3f0f"
+hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "67b8c6ae39e505e811416d77fba82bf45d713ed9ad240f0f7e0b6af1f300a14e"
+hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
