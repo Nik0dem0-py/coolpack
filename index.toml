@@ -40,11 +40,6 @@ hash = "d2f6ba732fdd2d315fc9eb4c106e7592fdf934a0ae3cd233501b4ab76e08c342"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "c3d275a2063f9032957be9cc9d34ab549c662db68f0e0481e03b6f91131fc60b"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
@@ -255,11 +250,6 @@ hash = "9d401ac43459b9a7e08ef2937360d96d2d06e845f80df0706767ce4c7ffb0fd1"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "a872fcf4af7d11dd92a973473cb63a702dc130a3ff4599c276383b48518cdded"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
@@ -446,11 +436,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "5d4a81c4d0730de2d961905221508334970e58102919be73f7484058ca3ab17c"
 metafile = true
 
 [[files]]
