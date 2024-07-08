@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CustomSkinLoader/LocalSkin/skins/CarotaIgnis.png"
-hash = "6ad101337068614cfb5f7bf889f74d9d3def83b9c6153e61d3ef17b1fd026ff5"
-
-[[files]]
 file = "mods/FallingTree-1.20.4-1.20.4.3.jar"
 hash = "1757f8b8a102615ac60341b855857014fe39ca49301e2f95c7805e14d8b2ba24"
 
@@ -106,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
-metafile = true
-
-[[files]]
-file = "mods/customskinloader.pw.toml"
-hash = "570fb59d05503e37db8a03fa8fb9067559b04474a7ac4264ddf189723f1ad525"
 metafile = true
 
 [[files]]
