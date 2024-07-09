@@ -472,3 +472,19 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Better_Cats_V0.09.zip"
+hash = "c647eb3397fc861178c49edde7c1f4edae957ca573c5ad25cd1e9a5f7fdf2437"
+
+[[files]]
+file = "resourcepacks/Better_Dogs_V0.41.zip"
+hash = "27f19f08cd13a42786722dc18b0a14aaf83411b9a3e4efa51f3f92caa3bb3523"
+
+[[files]]
+file = "resourcepacks/FA+All_Extensions-v1.4.zip"
+hash = "cf6425feb0bad40c9124c361c4d962ee557fea6dfde5799b04560b8fb0f72961"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
