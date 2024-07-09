@@ -482,8 +482,16 @@ file = "resourcepacks/Better_Dogs_V0.41.zip"
 hash = "27f19f08cd13a42786722dc18b0a14aaf83411b9a3e4efa51f3f92caa3bb3523"
 
 [[files]]
+file = "resourcepacks/Chat Reporting Helper.zip"
+hash = "ee16f29cbc638988b81d87c04dc1abab6fd06cb62d65481edcf393dfe7f46c56"
+
+[[files]]
 file = "resourcepacks/FA+All_Extensions-v1.4.zip"
 hash = "cf6425feb0bad40c9124c361c4d962ee557fea6dfde5799b04560b8fb0f72961"
+
+[[files]]
+file = "resourcepacks/Fast Better Grass.zip"
+hash = "40b14a6dd289bfa7f09bad70ba8397fd91cf1b125162128ad6d54e53c3b6446e"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.2.zip"
