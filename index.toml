@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
@@ -37,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
+metafile = true
+
+[[files]]
+file = "mods/better-furnaces-reforged.pw.toml"
+hash = "cf59fde2285c3a4f92bdae9f1595424678916baaaf2d283c78a3c28f391d662a"
 metafile = true
 
 [[files]]
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
+metafile = true
+
+[[files]]
+file = "mods/factory-api.pw.toml"
+hash = "a801d28e52d5b8c7c5bc9ac40b66bf4cc2aa51f7a850f3b33500117a5c7bdac5"
 metafile = true
 
 [[files]]
