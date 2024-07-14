@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/FallingTree-1.20.4-1.20.4.3.jar"
-hash = "1757f8b8a102615ac60341b855857014fe39ca49301e2f95c7805e14d8b2ba24"
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "63b9a7cb2a89ab8e2e98e85a1fef0323a37e82897adcd56b11ed0c94f9cd29e4"
+metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -22,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/auto-workstations-fabric.pw.toml"
 hash = "66756f58c37126442ee0d792f15bcbb6a8bf57a192c86d1fb4e18d4be58a930f"
+metafile = true
+
+[[files]]
+file = "mods/automatic-potato.pw.toml"
+hash = "879cdc85d24c2dd7c0e68e4c796bf975b0763eb230604c0196e020ac8b2ace14"
 metafile = true
 
 [[files]]
@@ -91,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cf14f57d55838c2d9cc4bade9dd9c2865cba49b8800b3cab7c061a7cfb222946"
+hash = "fc09cd395ba29b96def903ac492ce28eafcb7dc659c2cb22eea9764490478d17"
 metafile = true
 
 [[files]]
@@ -176,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -273,10 +279,6 @@ metafile = true
 file = "mods/jade.pw.toml"
 hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
-
-[[files]]
-file = "mods/journeymap-1.20.4-5.10.0-fabric.jar"
-hash = "82ebaa12a94099ea1fd7e23e45799361f1ba64d0eab93ad6f10b1de3627e34f0"
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
@@ -406,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "e2f5d3ecaf3e192ef9af84a5d1caa8713965584596d98e5762e573d2d022422c"
 metafile = true
 
 [[files]]
