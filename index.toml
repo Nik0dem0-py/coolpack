@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/FallingTree-1.20.4-1.20.4.3.jar"
+hash = "1757f8b8a102615ac60341b855857014fe39ca49301e2f95c7805e14d8b2ba24"
+
+[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "63b9a7cb2a89ab8e2e98e85a1fef0323a37e82897adcd56b11ed0c94f9cd29e4"
 metafile = true
@@ -279,6 +283,10 @@ metafile = true
 file = "mods/jade.pw.toml"
 hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
+
+[[files]]
+file = "mods/journeymap-1.20.4-5.10.0-fabric.jar"
+hash = "82ebaa12a94099ea1fd7e23e45799361f1ba64d0eab93ad6f10b1de3627e34f0"
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
