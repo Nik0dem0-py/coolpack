@@ -479,6 +479,11 @@ hash = "73b27be6011d0beeaacbbad2631f94c949a8865e4573f3d41c80520ec1035262"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
 metafile = true
