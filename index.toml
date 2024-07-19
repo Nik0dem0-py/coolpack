@@ -5,8 +5,13 @@ file = "mods/FallingTree-1.20.4-1.20.4.3.jar"
 hash = "1757f8b8a102615ac60341b855857014fe39ca49301e2f95c7805e14d8b2ba24"
 
 [[files]]
+<<<<<<< Updated upstream
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "63b9a7cb2a89ab8e2e98e85a1fef0323a37e82897adcd56b11ed0c94f9cd29e4"
+=======
+file = "mods/ad-astra.pw.toml"
+hash = "6686c0a4c023c4c6f5bf8147698d714e58536db1fd5ac8a0461e788a9c4b745d"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
@@ -60,6 +65,11 @@ hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "9fd62f66a1ae6ae28a564fd4ab57829701a46bad64ef13da8fdb959a0b227999"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
@@ -95,6 +105,11 @@ hash = "1bfa978c09e27a1b064119a8ebe53083f63abc3625055f49f0f086a64c0222bb"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "b260e8c1e1d883ce64b14100994d48bd1bbd9f25801a6e6a850ab3044f282c03"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "40a9c2f1aaf9808ffe66b33ab45b56cd0c6cf07060819fd5044518cfe11f03c0"
 metafile = true
@@ -117,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "3285dbe0818e4603cc338d7ba0f4e2c3e3d69c49a97b9b4cc5815e9ec67c1df9"
 metafile = true
 
 [[files]]
@@ -329,6 +349,11 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "534f08e122a9136705a9f0b6fbd949ea66d5de621bacf2ddcd826a95db60db19"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
 metafile = true
@@ -421,6 +446,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "31463510720db43c67d3fe104846f79e6c648134209d989b026defda012d58f6"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "f61632fb0bc73af1667cdec5561e288fbd918a12fba4756491f05ec025fdffe8"
 metafile = true
 
 [[files]]
