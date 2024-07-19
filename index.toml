@@ -5,13 +5,13 @@ file = "mods/FallingTree-1.20.4-1.20.4.3.jar"
 hash = "1757f8b8a102615ac60341b855857014fe39ca49301e2f95c7805e14d8b2ba24"
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "6686c0a4c023c4c6f5bf8147698d714e58536db1fd5ac8a0461e788a9c4b745d"
-metafile = true
-
-[[files]]
+<<<<<<< Updated upstream
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "63b9a7cb2a89ab8e2e98e85a1fef0323a37e82897adcd56b11ed0c94f9cd29e4"
+=======
+file = "mods/ad-astra.pw.toml"
+hash = "6686c0a4c023c4c6f5bf8147698d714e58536db1fd5ac8a0461e788a9c4b745d"
+>>>>>>> Stashed changes
 metafile = true
 
 [[files]]
