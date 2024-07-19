@@ -205,18 +205,13 @@ hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
 metafile = true
 
 [[files]]
-file = "mods/even-more-instruments.pw.toml"
-hash = "f8a3b87c56489dd48bba87156814b0817a9ed5b1cf7d6a58d3da471cc28b315d"
-metafile = true
-
-[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "21f381624f2815bf66fc9ba8424e8e065b2ac6637d6296ee66a77135bdc75ccd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -275,16 +270,6 @@ hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "50b1bf576c504b6ad39532db6f0e38c7804ca1fe6649ad754100d7b8f4937c1f"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "6c1afc120481f3af9d744c35e62fc2d33391620492fbbb93c0e54e088e3a0d26"
-metafile = true
-
-[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "43898578c1bca827c204e484d05deafe2174a3373c3339b175b3ff090dc475d1"
 metafile = true
@@ -302,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "9d401ac43459b9a7e08ef2937360d96d2d06e845f80df0706767ce4c7ffb0fd1"
-metafile = true
-
-[[files]]
-file = "mods/genshin-instruments.pw.toml"
-hash = "f86fe183816d5b345e9391c23882197b7f0b3960ce5d4f4ed2ad822c1acd767a"
 metafile = true
 
 [[files]]
@@ -466,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
-metafile = true
-
-[[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "969d80951701374aa3f6653f8e63df2242abdb6b96fb350b42a9287e443b256d"
 metafile = true
 
 [[files]]
