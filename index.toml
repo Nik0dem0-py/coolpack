@@ -40,6 +40,11 @@ hash = "879cdc85d24c2dd7c0e68e4c796bf975b0763eb230604c0196e020ac8b2ace14"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "74a2ff08bd71a244c726bc3cc79625550807ff8f41b7629145e4d64ef24f289b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
 metafile = true
@@ -541,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "9aa2de540fe4964d400d67eca3418bd39beddd6fb82d1dcb31e0b3e00c5bc136"
 metafile = true
 
 [[files]]
