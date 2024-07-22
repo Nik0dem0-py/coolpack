@@ -60,6 +60,11 @@ hash = "82b20a5c104de33dc01364ff2bf1354132327d085a3dc10954b5ea0ff3d53f51"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "617563db0d44229fb65eb660130d02d1a4d2f29233eda03b68d3273e700326f8"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "e8fa46e5c43883dbdc0ad1069813f2b079ea948ff59a6c00defda16363545871"
 metafile = true
 
 [[files]]
