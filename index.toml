@@ -304,11 +304,6 @@ hash = "190bce0778a1f65b6e5ef728e78fa5691efa08a7d4f9199d6c427ff05e4347f8"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "c2621acf6cdd485e6f129092ead9cde3d5f0b8e3d456a45a946525f1ab150725"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "7cc867cb00d9cbc7418be0307ed655200b4f38c306921c1863cff16798aaf79d"
 metafile = true
@@ -486,6 +481,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
 metafile = true
 
 [[files]]
