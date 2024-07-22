@@ -295,10 +295,6 @@ hash = "919e0f9bdf11b4960591cef1f0cb7fe6bb8bbf21135b423c0d014b00b4a06cb8"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-1.20.4-5.10.0-fabric.jar"
-hash = "82ebaa12a94099ea1fd7e23e45799361f1ba64d0eab93ad6f10b1de3627e34f0"
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "7cc867cb00d9cbc7418be0307ed655200b4f38c306921c1863cff16798aaf79d"
 metafile = true
