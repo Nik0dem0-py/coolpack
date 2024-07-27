@@ -6,11 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-<<<<<<< HEAD
 hash = "792037b218d2aaaf52916b85f3aa137884f06b1e2883d58d559f286868940279"
-=======
-hash = "a3164c41fe84cd20b4ea9119c92dbeb4721207a6965daad240f50e642881da42"
->>>>>>> parent of d8a4064 (Update Mods)
 
 [versions]
 fabric = "0.15.11"

@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d2f6ba732fdd2d315fc9eb4c106e7592fdf934a0ae3cd233501b4ab76e08c342"
+hash = "95aa079767412e5fe125c3d5519614e33336e77e8ac98664ab8c0998e096cc48"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "fdc5fe878f1768219f9d9d484e5da28ee4196dc8889b2545181f23c576db719e"
+hash = "54aafd7cfed7d028885daef6000ea20896e6bcf228dfb793d688b07af82f4d0f"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
+hash = "c4dc919c3184afbb618a51f163f2d059dcc08598f88386ec02167bf4a33d5024"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
+hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "7a7476bc55ba5815e6e2f56a53536ae20efa11ac2f5bd08e4ab453b799682960"
+hash = "1e83d7f082dcff561b6e8646fd846bc82ea18954972ed57e0240a103bd0ddb1a"
 metafile = true
 
 [[files]]
@@ -486,12 +486,12 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "b9c7145be5ed0f3644fb475d35ba68519568d06b46bdb4ac1270b3acfd1dcdbf"
+hash = "ed0536312715905268f3fc203cda61ed64972bc045ca8624e2a077a34a888809"
 metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "73b27be6011d0beeaacbbad2631f94c949a8865e4573f3d41c80520ec1035262"
+hash = "946586f6d69859ffde1307a3a8d85a218f79cf94bdec5d5f2f7fe1e5892e1aaa"
 metafile = true
 
 [[files]]
