@@ -475,11 +475,6 @@ hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
 metafile = true
 
 [[files]]
-file = "mods/tcdcommons.pw.toml"
-hash = "e7265fc0c9ad6e2db4fcb1e8346095d9397ca9a1c5c0dd2045e3179ffa8709a1"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
