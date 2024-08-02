@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
+hash = "4c9dc2e5b7444705e49ec6b93cffc326f6bb592890a0af257e10948c76ec98a8"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "dd5845c1871ac495fe753326607220b119ddfe18bf0d139e011cb944da020d18"
+hash = "c95275cea31ddab49f8c43892450e6756c70479000b55d26de27dc8fe26ef53b"
 metafile = true
 
 [[files]]
