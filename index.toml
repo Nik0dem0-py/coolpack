@@ -185,6 +185,11 @@ hash = "b0d4586498df93089ab0488bc51265de0e948d043703aa683f980ae7fd2fa79d"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "de8a91a552b5549da4e1ea5d3f978b98a0987960347ce2c2c0ccc1067d3ed3a0"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "21f381624f2815bf66fc9ba8424e8e065b2ac6637d6296ee66a77135bdc75ccd"
 metafile = true
@@ -547,3 +552,11 @@ hash = "40b14a6dd289bfa7f09bad70ba8397fd91cf1b125162128ad6d54e53c3b6446e"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.2.zip"
 hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
+hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip.txt"
+hash = "cf290e4eb426857de574fed350160bb3f7448c897a7694003e75652bf8eda4a9"
