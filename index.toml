@@ -51,9 +51,8 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "83a04023d58649ce89db7c5d0e9006d61ee7b51570cf6594897dae6cc7b6178a"
-metafile = true
+file = "mods/betterstats-3.12.6+fabric-1.20.1.jar"
+hash = "6fa315149762e31db30fb73cef35ebd88946f7b937f89cc533dfb2fb418fe84e"
 
 [[files]]
 file = "mods/blanket.pw.toml"
