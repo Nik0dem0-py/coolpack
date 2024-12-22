@@ -1,13 +1,13 @@
 name = "Coolpack"
 author = "abc and nicky"
-version = "1.0.2a"
+version = "1.0.0-a"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b182b77f8f9abede49ad29b35346e05d4aef3bc60c9085ea7aadc34d5f1f67a"
+hash = "0803d569a9c2c326e04ecc657ddbebc6c409108846c5fbde8d2dab06443cf90b"
 
 [versions]
-fabric = "0.15.11"
-minecraft = "1.20.4"
+fabric = "0.16.9"
+minecraft = "1.20.1"
