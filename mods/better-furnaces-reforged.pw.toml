@@ -1,13 +1,13 @@
 name = "Better Furnaces Reforged"
-filename = "BetterFurnaces-1.20.4-1.0.2-fabric.jar"
+filename = "BetterFurnaces-1.20.1-1.1.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/2vXfMQ5s/BetterFurnaces-1.20.4-1.0.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/ZXOYCX2A/versions/1qW3x7W8/BetterFurnaces-1.20.1-1.1.3-fabric.jar"
 hash-format = "sha1"
-hash = "c2c293c93f7a21dfa6f85520cd1ad6e10902c077"
+hash = "37ed3ad6e3deef072807eaf2a15c047e3d3b8e92"
 
 [update]
 [update.modrinth]
 mod-id = "ZXOYCX2A"
-version = "2vXfMQ5s"
+version = "1qW3x7W8"
