@@ -11,6 +11,11 @@ hash = "21e588c2284f8c12da4fb490ecdca5d4ee95240f822fe279dcd3a1760e7aaff5"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "cc5ec503b0d0c5a15d409e5c90df1c2c3b1d2db92d8d486a96b04f6fd353df71"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "b80480e811393256fd5a1e7962162ccc03d145762a96b1bc142dad21ac6a3d6a"
 metafile = true
 
 [[files]]
