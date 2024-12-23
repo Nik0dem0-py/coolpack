@@ -1,13 +1,13 @@
 name = "CICADA"
-filename = "cicada-lib-0.8.3+1.20.2-1.20.4.jar"
+filename = "cicada-lib-0.9.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IwCkru1D/versions/RvdY0Fah/cicada-lib-0.8.3%2B1.20.2-1.20.4.jar"
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/vQa9oDJZ/cicada-lib-0.9.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "8b2aae65c5a0f16c9570ca898cb0303288615fbd"
+hash = "f803f027d86aa19e4f27b8982b2bbf69c20ca07b"
 
 [update]
 [update.modrinth]
 mod-id = "IwCkru1D"
-version = "RvdY0Fah"
+version = "vQa9oDJZ"
