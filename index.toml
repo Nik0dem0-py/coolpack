@@ -355,6 +355,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "8e8f611a873509cde25347ccac6bdc849ae6a18494cbacd9740892700b337cb6"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "a85eb02bc9cab71173f94e55c5d6c36d7405ed688e159ace90785a30f7f55e55"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
+file = "mods/mine-chromatic-addon.pw.toml"
+hash = "ddc88f919a8a574c48807d7fa4f60703df396d58f8e2bdefb5ff65412782e2d6"
 metafile = true
 
 [[files]]
@@ -476,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/reeves-furniture.pw.toml"
+hash = "dd2ddd8a3dbac20d7a263081e9d7ca249d473204eaa956c39e7227804412c254"
 metafile = true
 
 [[files]]
