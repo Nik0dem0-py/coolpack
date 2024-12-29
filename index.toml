@@ -16,6 +16,11 @@ hash = "cc5ec503b0d0c5a15d409e5c90df1c2c3b1d2db92d8d486a96b04f6fd353df71"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "556de6305e090827c218e7e37a0cffe486d2fdcde101019a792e46640989628b"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
@@ -516,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "000e2d5db070156fca01f7317e754b328d04ac2754a6e0b68b77782e3c01fe85"
 metafile = true
 
 [[files]]
