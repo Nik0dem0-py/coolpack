@@ -678,18 +678,8 @@ file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
 
 [[files]]
-file = "resourcepacks/brewingcanvas-potion-guide.pw.toml"
-hash = "8da9144989b4190debcefcdccafedf57eadac86d565f0c7bb3a0ca4e5034196c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/forecks-rotten-painting-pack.pw.toml"
 hash = "f7b9144be67d9a19fd0207c5d6bdc20523c685dd33a89087b59a90c645ad0118"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fractal-painting-pack-bright-and-colorful-part-1.pw.toml"
-hash = "b47aa6c24ed8b521bcebd81d117aea13ba0b6c2509c1dc045985b0c72481efd6"
 metafile = true
 
 [[files]]
