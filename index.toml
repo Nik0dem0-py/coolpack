@@ -370,6 +370,11 @@ hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "a46b6c6adab8d758dbfe5eb9a05c6b28221070e8af5c9622259d5c78e74a2e59"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
