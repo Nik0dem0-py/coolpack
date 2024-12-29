@@ -41,6 +41,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "225aa48b88438cda45d4e6d1937f6be03b8f702ce5375e8c9647e33e50b1ff55"
+metafile = true
+
+[[files]]
 file = "mods/auto-workstations-fabric.pw.toml"
 hash = "0ff2fff6897ff9e1ec874745bed7da7335e41e58c1d7cbf0fc37235f2bb34165"
 metafile = true
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
@@ -315,6 +320,16 @@ hash = "07ee8789977cb493de3d97bad5c91677c1d16086968e0ce070ed09cbcb854d3a"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "031ba1bb160d2d42dd8852660503b1d125c74d0ab3ce78012403bb501deca859"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "594134d837f6eeec1475b436713ddc56066bde03efdbcbc14d15498033592d17"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
@@ -372,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "e0560dd439d799bfd883bf7583ea8b9ad6e4b5340bcbbe991a7566dffd390117"
 metafile = true
 
 [[files]]
@@ -471,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "385378a9a9d2a42a3e74876391aa527af960d5150f0cf7d0ec01073c3579ec37"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+hash = "a5a8903bcb854b93e2ee1397ef85b8fac8694628313522398b4fd48bd0b84a01"
 metafile = true
 
 [[files]]
@@ -579,6 +604,11 @@ hash = "0650c60948ae711a6eba838eec043db884b7e08e8a6ca6b646e1ec9a3fd05c6d"
 metafile = true
 
 [[files]]
+file = "mods/transparent.pw.toml"
+hash = "3ed20daac0bffba028a2cceef475254a0a4eace7fd55c02e607e0b1e9890fbbd"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
@@ -646,6 +676,26 @@ hash = "40b14a6dd289bfa7f09bad70ba8397fd91cf1b125162128ad6d54e53c3b6446e"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.9.3.zip"
 hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
+
+[[files]]
+file = "resourcepacks/brewingcanvas-potion-guide.pw.toml"
+hash = "8da9144989b4190debcefcdccafedf57eadac86d565f0c7bb3a0ca4e5034196c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/forecks-rotten-painting-pack.pw.toml"
+hash = "f7b9144be67d9a19fd0207c5d6bdc20523c685dd33a89087b59a90c645ad0118"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fractal-painting-pack-bright-and-colorful-part-1.pw.toml"
+hash = "b47aa6c24ed8b521bcebd81d117aea13ba0b6c2509c1dc045985b0c72481efd6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/oliver-remund-painting-pack.pw.toml"
+hash = "16cc56a394742f5d8d0c877f53b80dedfbed4784bc74e89732efd4590e423d5e"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.3.zip"

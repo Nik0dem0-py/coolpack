@@ -1,0 +1,13 @@
+name = "Foreck's Rotten Painting Pack"
+filename = "foreck_pack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32ba9b398ae5ba0f9248229267afd5d55e3e976e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5281230
+project-id = 1007231

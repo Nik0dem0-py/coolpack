@@ -1,0 +1,13 @@
+name = "Fractal Painting Pack: Bright and Colorful Part 1"
+filename = "fractal_painting_pack_bac_01_by_Leichenengel.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96b1d3431ad48a480e80b869bbfe2703041536ce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4875452
+project-id = 939414
