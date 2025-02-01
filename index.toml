@@ -250,11 +250,6 @@ hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
 
 [[files]]
-file = "mods/factory-api.pw.toml"
-hash = "3956d99debdd57d2a74a975ef0095acdefaeff10665618a1e657dc93b8dc805e"
-metafile = true
-
-[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "a79279c798e10b673c3e7dfbe675a29e09d5709ddf38d7300356346a7d29ac13"
 metafile = true
