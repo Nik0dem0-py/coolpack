@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/factory-api.pw.toml"
-hash = "0be753ab9b3a771534c6fd3773ae8d9353cb3dee1a52be32d84f3cde542c34b9"
+hash = "3994a831026cfdb5f04fd6efd4ed5d640fad62d301c581516f8358b2bfa9bea6"
 metafile = true
 
 [[files]]
