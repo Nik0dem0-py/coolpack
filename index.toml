@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ed60938983c31cd4f924b0eca9744109220e56c488f20a77545350a704f4dc78"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -367,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "a1ce65a66342fad735191630d36d96acd9b53310879e8585c98e240c4bf33ca8"
+metafile = true
+
+[[files]]
+file = "mods/lightest-lamps-fabric.pw.toml"
+hash = "f8ed547ba6e88294188e0fbf9ceef396f947c5d7f95a86283887c872ca9f62fa"
 metafile = true
 
 [[files]]
