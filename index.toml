@@ -61,6 +61,11 @@ hash = "07da089a374927ef57c4854079eee4e495f9498932358212d75854e7bd2c04b8"
 metafile = true
 
 [[files]]
+file = "mods/better-furnaces-reforged.pw.toml"
+hash = "2665e4a74f9ae1c7e8887557d0e19194058c7bcc408656448e4a202aab515687"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -221,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
+hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
 metafile = true
 
 [[files]]
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
+metafile = true
+
+[[files]]
+file = "mods/factory-api.pw.toml"
+hash = "e6cf38e3fdcef1f5cf26a322c838cd9449672bfeb08d5fb01ab8fad3dd013656"
 metafile = true
 
 [[files]]
