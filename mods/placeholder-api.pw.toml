@@ -1,13 +1,13 @@
 name = "Text Placeholder API"
-filename = "placeholder-api-2.1.4+1.20.1.jar"
+filename = "placeholder-api-2.1.3+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eXts2L7r/versions/DaV2ycYi/placeholder-api-2.1.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/eXts2L7r/versions/wrxtLoOX/placeholder-api-2.1.3%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "722efc56827ba973673b15ccc2e446c269a16faa"
+hash = "24079fff301cc7ed6e20b145651c2fc1a8b94b2d"
 
 [update]
 [update.modrinth]
 mod-id = "eXts2L7r"
-version = "DaV2ycYi"
+version = "wrxtLoOX"
