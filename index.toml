@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
+hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
 metafile = true
 
 [[files]]
@@ -586,6 +586,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "49b680b44026ee3690003b9e07b26f9fe2e722160de933bb907cd4b73571af77"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "526b9f0b2d1128862a05ff3ffc5e039a006571e716daff753821e0f5c768a0c2"
 metafile = true
 
 [[files]]
