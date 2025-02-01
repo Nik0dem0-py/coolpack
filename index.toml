@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "68452e94ddd4f29ffbf50ec05a71df40b4252ebbebf135578cc107103cbe891e"
+hash = "ece1c73bdc292cc91416eda1c7b878dc1613e9fe7ee76b52a5994011225e2aaa"
 metafile = true
 
 [[files]]
@@ -571,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "71d22734792f98b1f9f93fccfce7febd3d98b14578d7f67bf856099344853d68"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e950dc5083326f0ec27bbf95171c5d7c6b1a1926c952730f17f9a4f6c7e15799"
 metafile = true
 
 [[files]]
