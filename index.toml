@@ -385,6 +385,11 @@ hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "9dde0fea12f33a8af21373ba665ac91881bebae5f0a9288c39d9281ba10d6679"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "ee6743ffbc2f687ea26751fe134acdfc1225a59b1e78e17bad1d43014e32aac5"
 metafile = true
