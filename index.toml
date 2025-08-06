@@ -410,11 +410,6 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
-file = "mods/mine-chromatic-addon.pw.toml"
-hash = "ddc88f919a8a574c48807d7fa4f60703df396d58f8e2bdefb5ff65412782e2d6"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "caf5acdba682c5a16f9e6299c0a6dd7772270e099da46f96663d2387b18d622b"
 metafile = true
