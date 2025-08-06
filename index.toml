@@ -485,10 +485,6 @@ hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.2.6-beta.jar"
-hash = "fcc3c3ef2dfc51cacfa07d35b563024ee5a07318a6abd829d28cd34c62687441"
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "f0b86a8d17c963ac72349519b134b71d0f95e5c12927a7f8ae66fb94ffdc4c59"
 metafile = true
