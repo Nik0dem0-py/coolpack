@@ -6,11 +6,6 @@ hash = "04a14112a7571a3e0651601b53dd4def022001aa0e79409307842682fb39c71e"
 metafile = true
 
 [[files]]
-file = "mods/additional-enchanted-miner.pw.toml"
-hash = "21e588c2284f8c12da4fb490ecdca5d4ee95240f822fe279dcd3a1760e7aaff5"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "8f18655ac99623ea639b00ad57e75e47d9f43631106dda77d9e0194393f420b4"
 metafile = true
