@@ -405,11 +405,6 @@ hash = "e0560dd439d799bfd883bf7583ea8b9ad6e4b5340bcbbe991a7566dffd390117"
 metafile = true
 
 [[files]]
-file = "mods/mcef.pw.toml"
-hash = "a46b6c6adab8d758dbfe5eb9a05c6b28221070e8af5c9622259d5c78e74a2e59"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
