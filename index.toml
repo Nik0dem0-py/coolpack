@@ -71,10 +71,6 @@ hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
 
 [[files]]
-file = "mods/betterstats-3.12.6+fabric-1.20.1.jar"
-hash = "6fa315149762e31db30fb73cef35ebd88946f7b937f89cc533dfb2fb418fe84e"
-
-[[files]]
 file = "mods/blanket.pw.toml"
 hash = "cbd4c7fa64d8ee6362b9279aed6fd5f65df6ca1d9000e8dd4a6d0e1eeafbd175"
 metafile = true
@@ -157,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
-metafile = true
-
-[[files]]
-file = "mods/devices-mod.pw.toml"
-hash = "872ecb2276fded19473f72da49e0e17ccc064b2f198bbcaa6bae99b472f7df33"
 metafile = true
 
 [[files]]
@@ -490,6 +481,11 @@ hash = "f0b86a8d17c963ac72349519b134b71d0f95e5c12927a7f8ae66fb94ffdc4c59"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "634afccab681e7ef51ee21e33bd54c267c60a8ced6c9af69d3dc01a74499e4e5"
+metafile = true
+
+[[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "c5fb0b6a5be045f581c5b967253dc44800962c2ccaf464ef66c727177ef38e58"
 metafile = true
@@ -527,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/reeves-furniture.pw.toml"
-hash = "dd2ddd8a3dbac20d7a263081e9d7ca249d473204eaa956c39e7227804412c254"
 metafile = true
 
 [[files]]
