@@ -511,6 +511,11 @@ hash = "f6d26a5f51df81601d9d504ca6c1e425c82dd1fb503c28f26e3ee79daecc4449"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "a83aa79917f26423756499b93527b382962e09dd30d0aaf5da13094a50d1c6c1"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "9559a46832e97ee6afc82c08fb99958fe040042c06bfd0d28c86edf58dfcd0fb"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "523da56e7ded0ff4e69ffc536c01e8eef110e0b0f39cfad049a7fe7d6879cac8"
 metafile = true
 
 [[files]]
