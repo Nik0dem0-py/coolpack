@@ -41,6 +41,11 @@ hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
+file = "mods/armor-stands.pw.toml"
+hash = "84fd3ff55bcb43eca75adc032ea8c4ea620f4285f88e07f1913dd5a32254b38c"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "225aa48b88438cda45d4e6d1937f6be03b8f702ce5375e8c9647e33e50b1ff55"
 metafile = true
