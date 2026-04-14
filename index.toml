@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ddb73a24312769d0023e70d764db13e2de3cfe271c1e7e7c6ae9bd4e1201cd20"
+hash = "81d1897b9888741b0b7c59b9efbfa3b10f8a0792a198ce404f42bebb59d0728a"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+hash = "e1a20ae12300f1028d10ef71037189fa374c5e0243cd1000c3e276db206381df"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "9dde0fea12f33a8af21373ba665ac91881bebae5f0a9288c39d9281ba10d6679"
+hash = "5fb13beb7e3a74fca6fbbae027b623bc7dd98189143afdf3afedd51d140e4614"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2609e810b17cc48f058964da71925ed2c7fc37967c6fa5c99a880ee42a3dfae0"
+hash = "db14e98439b448fc006dd18b4a7f3666e698a9ec791dee12d06468b76a6b6799"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "d6d2c027425cc9c2da6b2039e0f8f0874896f56bbe55bb3b6ecc87680d0422ea"
+hash = "3c455dd02cdeb5a82cfcb778f4a8734b08a0972299bfefbf9eea7ad1919236e9"
 metafile = true
 
 [[files]]
@@ -694,6 +694,134 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "8ccd17daba5bfc3c5ec95a7b143d4e65b5e723435921d2e201c5ff4270c80219"
 metafile = true
+
+[[files]]
+file = "packwiz.md"
+hash = "be60d3bdcfbc68bf09fb53bee099388a38724e225a043ade0142b54bc5fc9ba1"
+
+[[files]]
+file = "packwiz_completion.md"
+hash = "891fac1591cabc47866161c709c63614945499f78080f7c14d54d6fccf034732"
+
+[[files]]
+file = "packwiz_completion_bash.md"
+hash = "e6b8ebcac8a5ae710cc31d27a319c21059fa327567c508d1f38f168eb0fb0910"
+
+[[files]]
+file = "packwiz_completion_fish.md"
+hash = "81ce7310769ddd46f6dee4ee0c4b2b815dd92fd37ba8457d4b68b5034aa1b8b8"
+
+[[files]]
+file = "packwiz_completion_powershell.md"
+hash = "f1ff542a2d22c1914b01c9c6dda87adc4cfe927b6357b6ec639d4d8c88d54019"
+
+[[files]]
+file = "packwiz_completion_zsh.md"
+hash = "b33ef1078ef5fabf20981f8cac7a7d361a15df7f06c5eef74140959d22d9d476"
+
+[[files]]
+file = "packwiz_curseforge.md"
+hash = "f2592126439a86ee28c0d97bb374226e422d7fa2f7459320a00eb23843a431ad"
+
+[[files]]
+file = "packwiz_curseforge_add.md"
+hash = "084a4bb4004951dcedd4e5aff005110bf06454a7bd398b4940215b1172cf49a8"
+
+[[files]]
+file = "packwiz_curseforge_detect.md"
+hash = "6b8ab0a870dd7fcc5093bfda53b0515f259f01ef5e727bf794e765813ca01848"
+
+[[files]]
+file = "packwiz_curseforge_export.md"
+hash = "1f408ee46b5e09454349c02553a203a6f47ccb960be12a1794aae6f0b55a056a"
+
+[[files]]
+file = "packwiz_curseforge_import.md"
+hash = "5a0f7cdb065d1d5765d3908c1f958e3e46776d17e4eca0a13fef15ce62e3fbb5"
+
+[[files]]
+file = "packwiz_curseforge_open.md"
+hash = "11b70ec73be0b925791df3deeecdd3b3db8d0512dbd4b857d779e5702da2270d"
+
+[[files]]
+file = "packwiz_init.md"
+hash = "36d318f3fef0c15cd26cb23b96d01bf28c51f2c6dffc350ecc21a6d74e70b4ee"
+
+[[files]]
+file = "packwiz_list.md"
+hash = "fd7d0d12b134d461a8a0183374caf9bc7d2e960fce931a3073db3e2db3de4862"
+
+[[files]]
+file = "packwiz_migrate.md"
+hash = "41056017eeac5cf0405fa50815d77f70af62bdc51191b324330a1f35867170dd"
+
+[[files]]
+file = "packwiz_migrate_loader.md"
+hash = "a4c7ef7e5f829017ed14127dc28c700974f035807e2e4d70df9b4613ac8b2542"
+
+[[files]]
+file = "packwiz_migrate_minecraft.md"
+hash = "0ab8eb023239b2a13a73e99542d1c6b8aeb413517ebbbe4b946e9f3389b4e80a"
+
+[[files]]
+file = "packwiz_modrinth.md"
+hash = "0a91ce52729a5cf43d1c6ae665bbd420fd56b14c327c9173caf4c273a1ad3d69"
+
+[[files]]
+file = "packwiz_modrinth_add.md"
+hash = "f030711db18f6cb2765a28739c0b71083426461c78e881ff4fe5a50efa16f9a6"
+
+[[files]]
+file = "packwiz_modrinth_export.md"
+hash = "fe79ab47438801ea74b2f271cb4520313e77dd9591783a6760aedc13fa87d3c7"
+
+[[files]]
+file = "packwiz_pin.md"
+hash = "c3dc0c549b48cfeb5107e7d7e3dffa44e2c849a337def0cce860bcb0b3ef474e"
+
+[[files]]
+file = "packwiz_refresh.md"
+hash = "132530bb688ec9776f89a5167e3e076c66d0b0288b7f7cbd80db666149759196"
+
+[[files]]
+file = "packwiz_remove.md"
+hash = "0230b66a1b859d5b8b74a54b75977ec163365c8b692c6fa7ff819e3f284a6ffb"
+
+[[files]]
+file = "packwiz_serve.md"
+hash = "2bb1a17b19febf5aeb9f8be33ab9852965717bf0a9d22f6e95c0a5d183529590"
+
+[[files]]
+file = "packwiz_settings.md"
+hash = "f2643f7bf42c1ee18154b01fb6b15fc6b0f9567fc01211c4cd244a5d1efd3684"
+
+[[files]]
+file = "packwiz_settings_acceptable-versions.md"
+hash = "fc980532469cd8dd4c86413b01d89347724fbb802075ce599d3851bf3a5b7cfb"
+
+[[files]]
+file = "packwiz_unpin.md"
+hash = "282d21dc7a50848605f6889396ae4992fedb16fbb78b8cd59ef27a381533dbb4"
+
+[[files]]
+file = "packwiz_update.md"
+hash = "83052ba46cec597cca41421af9fb84c2d8c48af63bbe87b5bd75546df00ef831"
+
+[[files]]
+file = "packwiz_url.md"
+hash = "6c5afbb671d8c1245ab4cc673e1b00b9f1199f5a9a139972aafb0580bb6082e7"
+
+[[files]]
+file = "packwiz_url_add.md"
+hash = "3f9ea25e39eb244538211075e3be0d769a9860809ee0fed1a4c37c7d1472ba80"
+
+[[files]]
+file = "packwiz_utils.md"
+hash = "e8bf38d1cd6c672871356d38c1acf8147135acf96260977d1bd94b16c02c7cdd"
+
+[[files]]
+file = "packwiz_utils_markdown.md"
+hash = "1fe6cfb2351b861e467bebf4d36d2efb5120c9fba14b1169c06d86416bd43bcd"
 
 [[files]]
 file = "resourcepacks/Better_Cats_V0.09.zip"
