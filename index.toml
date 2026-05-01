@@ -6,8 +6,18 @@ hash = "f303dd184afae5d86b675faf853c52edd3ffa1e8b066e7ca68a6c7410a777865"
 metafile = true
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "35228989dbf447ed8a124fda344ef42720b7811d1326cb3e7373cc06f72d63fc"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "81d1897b9888741b0b7c59b9efbfa3b10f8a0792a198ce404f42bebb59d0728a"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "2774ee3ea0ca5df619d547e8b29bdb91ad02b203301b6a521cd40e9b0be7aab5"
 metafile = true
 
 [[files]]
@@ -37,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -66,6 +76,11 @@ hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
+metafile = true
+
+[[files]]
 file = "mods/better-furnaces-reforged.pw.toml"
 hash = "75f3421a67ebb544fc171a4deada30b02d2093a9f7eea918dab441e1d8fe214a"
 metafile = true
@@ -73,6 +88,16 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
@@ -146,6 +171,16 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "3681a4dd6134dc64b5af240379c1f98023b2217fd6af8c08763d3228bad01fbe"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6ec7fc70c84dc7f7f4578a85480264d82336d64ac0d8c95c0fcc55d350f64ab7"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "7efa55d7b8eeccbc1eccb65c47d96dff5585346cd9c098f02063ee3545eebe54"
 metafile = true
@@ -173,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "5eddd4c6a5cba7cd4d3d9a0acd0e810ae040d92b6c1928984a9497a5187d143b"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
@@ -301,6 +341,11 @@ hash = "3596b8f358215c756a84c01a0ee87f99354f0a0f7143691f36ab0dd9076539fb"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
 hash = "c93df4b14046b5547109263be9452bcbdb83f57bf558987ef58061dc2b1d117b"
 metafile = true
@@ -318,6 +363,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "bcbfae029f8f1d7229407fbc87f0b67a08c24182edc0a4dbfdf41c835a4f7556"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
 metafile = true
 
 [[files]]
@@ -373,6 +428,36 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "6c154d18505c366b2117c2cfa06ea66a7f3e1a441456c3e20f195cb446f8103b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "f937a33a62b1be092879f27572a338696f22beb6ca7d8f5ead8e93e59ccec9a1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "621d313a03c38e6db7709406828c7f5212833757a044884dc8dfc37d1e9462f3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "32157b1262c90a4ebee4a24028c39c2753a209b453c03c59391278acd432fc3c"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "f6275345ca358025bda3be46bcc29ac3f20ee04ec2e54d200a59ec96cb2630e5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "3ae1e6cd38e55ca83236ad4a2c4cd4d82ff9caa27d5e32c2da1f76b2c02703f9"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "419bd839d19392cc602591a1bd9975e02e4f946f93f161fa793865530628af63"
 metafile = true
 
 [[files]]
@@ -471,6 +556,11 @@ hash = "794fc4bc3a9bc8c79f574ac332cd9700c41d981102dfe6764a3e04cd1f239e5e"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "b9b8556a8811636a5d29a99b4d5d6ef049fc8b219babf25ddfd848cae9c1dec7"
 metafile = true
@@ -488,6 +578,16 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "f775b697f0f0ed51471a7c2672565c07c4df21ba2b67d794a45d65f4f6d84191"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "ab366f1adac9d472d80d8a2d8d702a9f70ae8d41017fb5a3077051ff76607632"
 metafile = true
 
 [[files]]
@@ -528,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "3f8c3cb53e263d6f296ae4159d7e8f3f496b3ae5983c3212ce5f1aa266cf8a70"
+metafile = true
+
+[[files]]
+file = "mods/prefab.pw.toml"
+hash = "9026bde12942568482aa53a271624f8dba7891bcf9a834a93ea09e571e7adce7"
 metafile = true
 
 [[files]]
@@ -641,6 +746,11 @@ hash = "de95d7c4cc724a13d9d8e86f9f44eb04ff33d836c0fd3525d562dc47b251f21f"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
+metafile = true
+
+[[files]]
 file = "mods/transparent.pw.toml"
 hash = "3ed20daac0bffba028a2cceef475254a0a4eace7fd55c02e607e0b1e9890fbbd"
 metafile = true
@@ -648,6 +758,16 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
+file = "mods/trek.pw.toml"
+hash = "7fcef2e987a114865d04073f64c4a79dd8ca5c176b77bb3a7105dc40bd663f65"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
