@@ -731,6 +731,11 @@ hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
+file = "mods/the-tube.pw.toml"
+hash = "63d62513cc6d15a9341ebc16b040b6c80751601315e0d002d1dafa18cb190c51"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
 hash = "a4cfb5083b9d014b87293d694d62f61ba3c64c6903885d7c1d46f46cc581f589"
 metafile = true
