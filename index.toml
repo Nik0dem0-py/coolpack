@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0eacc13e0293b4a0149bd9aea53177cf09019b651e3d19f2963794e5992cebb5"
+hash = "2a66bb03365c73b9b17bb90562d0d0d32a90cd6e74a922aded628b69b7bdc456"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "58d5f66daafdd9c73e578abfd9dc1e1434269db675c09703e821fc966d3c0570"
+hash = "93685b916f48316555dbdbf7eda859f12cdb95c63bb2c69b3974ac1f4cfa30b8"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/factory-api.pw.toml"
-hash = "a8d056dc28ac42e04cb24d5201c36497efacdd56fbdd7222e2b492f3a27f9cb5"
+hash = "b532599eeae40b9ca2b1c1fa744d828b54a79a2d27f5acab8cca549622700189"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3f8c3cb53e263d6f296ae4159d7e8f3f496b3ae5983c3212ce5f1aa266cf8a70"
+hash = "a66d85f9486c355e0184abdb0cba2df39c28760611c406b347f0c8c86efea0f5"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c0883bb751ddd2d9cb2d1616c482343ac866c1b5a885829e69884171bb07cb97"
+hash = "547fbd9b8a3a7f05d68d3708859265f0c1f2ec994e4916f9f72da12429ee5092"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3c08e80abd1ec07fcadde5d820fb44ec9ab964fe60385e1ae368b2eadc5d8b86"
+hash = "c70910870880249b6513a0b3ccfc5db5f5390ed28756c65c3988bfbfb154724e"
 metafile = true
 
 [[files]]
@@ -787,12 +787,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3aa0c84bf165e954df93339a9c93d07f064834ef8d79ae9ecfaaf0371461f2bb"
+hash = "3b4f0baf93606fb8eaef2079b05ccb4cc98c259c6b5e8f8578d59a970faf0527"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0ba9f66a87a15152d13463b94227c49c074ce2d7a8aa532597acd1a159023aad"
+hash = "12af3e98950aa9a07f49604936f382a259687f74341f7708b96f642ad018aeb1"
 metafile = true
 
 [[files]]
