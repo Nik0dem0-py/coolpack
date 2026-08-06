@@ -411,6 +411,11 @@ hash = "7e60ec08ec7f5158d5e185f4451c076b833d0252d9a67a4d8c6f4c8bd41e49bf"
 metafile = true
 
 [[files]]
+file = "mods/jcm.pw.toml"
+hash = "b1c4c89a66aae512dd274d29714f0ca98f5c92157d6545b13d5e225540c41a7a"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "067d992d925772f757e82085496010fb5bc1f5b84bd899f4c6be9fa1e638da49"
 metafile = true
@@ -844,8 +849,23 @@ file = "resourcepacks/foreck_pack.zip"
 hash = "827913f061d96b1c3c1fa8467b2c62acd13aff08ea89eb546d3910243d5d27f9"
 
 [[files]]
+file = "resourcepacks/ns-skpl-dm90.pw.toml"
+hash = "44838d6232546a72ae8fa6c1e381dc33d8f26c5342b55add3c6191595eb59fde"
+metafile = true
+
+[[files]]
 file = "resourcepacks/oliverremund 1.20.zip"
 hash = "26de219c703147ce470034be8fc811949a86b2f96083ad8bd5437e8ae6aa1233"
+
+[[files]]
+file = "resourcepacks/u-bahn-hamburg-pack.pw.toml"
+hash = "5422c55e2a27cfc36282f5befc883732a7fa7ec49b60b451328ca1380dcef990"
+metafile = true
+
+[[files]]
+file = "resourcepacks/world-pids-pack.pw.toml"
+hash = "e74bec5a7d9c66b4732daa12897ee2d710ec4e68b9c11954e8f2ee0c055b195d"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound.zip"
