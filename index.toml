@@ -76,11 +76,6 @@ hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "ab1e22cc66189067e002a204c70c553cc7cc0e738bd602f405d7cc37561260be"
-metafile = true
-
-[[files]]
 file = "mods/better-furnaces-reforged.pw.toml"
 hash = "75f3421a67ebb544fc171a4deada30b02d2093a9f7eea918dab441e1d8fe214a"
 metafile = true
@@ -88,16 +83,6 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
@@ -512,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "2605f9d82d953fff3d41212928d97cd7ba72b6411afccb5163832e0cf8b7fa5b"
+hash = "a84b46bb5429738ab63dc07de76bbe99eb5dda79eb8affb8db83b6f788d58d09"
 metafile = true
 
 [[files]]
