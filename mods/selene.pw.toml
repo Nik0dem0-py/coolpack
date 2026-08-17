@@ -1,13 +1,13 @@
 name = "Moonlight Lib"
-filename = "moonlight-1.20-2.16.31-fabric.jar"
+filename = "moonlight-1.20-2.16.34-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b92b52aa46ad0015f0f8ab304e915cb1619f4ac1"
+hash = "cd8fa2b98549ac1ca9915e70c03c4e462c72156b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8044108
+file-id = 8261415
 project-id = 499980
