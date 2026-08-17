@@ -171,11 +171,6 @@ hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
 metafile = true
 
 [[files]]
-file = "mods/create-power-grid-leds.pw.toml"
-hash = "7b534a67c0e24d0ee90f3a4847b53b1b3cc8a675c6256b9357544dcf535bbf30"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "6ec7fc70c84dc7f7f4578a85480264d82336d64ac0d8c95c0fcc55d350f64ab7"
 metafile = true
