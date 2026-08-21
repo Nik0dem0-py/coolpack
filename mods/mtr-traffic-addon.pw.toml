@@ -1,0 +1,13 @@
+name = "MTR Traffic Addon"
+filename = "mta-26.8.1-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kythvg5P/versions/ITQjTTfE/mta-26.8.1-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "212eb88a8ed98d489ef20d690dbea920b70d8b5f8bb1b90144942dd466ba8a05af4aa66f0d34246678752fbf3e654a7c001fdca5c98aba442a42e8ef66264dc7"
+
+[update]
+[update.modrinth]
+mod-id = "kythvg5P"
+version = "ITQjTTfE"

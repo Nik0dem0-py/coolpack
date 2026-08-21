@@ -556,6 +556,11 @@ hash = "794fc4bc3a9bc8c79f574ac332cd9700c41d981102dfe6764a3e04cd1f239e5e"
 metafile = true
 
 [[files]]
+file = "mods/mtr-traffic-addon.pw.toml"
+hash = "d8cac4c02c560a891b41fe1ad815a3906dcae650d4e417b6fe39a17afa2db174"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "cb9cb89e51e6948fa2a9790483c4eb3d2d739ac62da6fc838c18d3d8e7781d18"
 metafile = true
