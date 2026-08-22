@@ -71,6 +71,11 @@ hash = "46ec547cac40481562639e305d5e5f4e4e127f307837ac78302abd251768d352"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "8d4062c1773719f1e07818d27233ce07c9caf65dd52f9263c4699519dcf02ffa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "89a9a1bbc40b708bc7691fc9bd02b605aed5c60104698d4ebd3d9e9e7b9a36bd"
 metafile = true
@@ -668,6 +673,16 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "062e145a4c182959dc44f1fe531514191692ed6088ee5b307143a81ec39d9c70"
+metafile = true
+
+[[files]]
+file = "mods/saros-road-blocks.pw.toml"
+hash = "68bd6b2aeae2f647337f5bb63e50ede4886a09264fd415b88e72dcc41355c8d1"
+metafile = true
+
+[[files]]
+file = "mods/saros-road-signs.pw.toml"
+hash = "bd23040904e64bac05056c06c66906fd7dc3b21c948f82238564be41f6db811c"
 metafile = true
 
 [[files]]
