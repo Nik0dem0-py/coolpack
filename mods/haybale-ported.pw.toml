@@ -1,0 +1,13 @@
+name = "haybale-ported"
+filename = "Haybale-fabric-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VXCrchIW/versions/UpyDcHyS/Haybale-fabric-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "2be297fe332726bfe63027640b59def196956b1b4dff51aed233d94f5bc9fbd874de50bd3d26913a18a3e04d27098931a1d37b9643c2eab401f57b49027ffb63"
+
+[update]
+[update.modrinth]
+mod-id = "VXCrchIW"
+version = "UpyDcHyS"

@@ -376,6 +376,11 @@ hash = "ce32d8b4c3dce5b957678b6db62316ad998d20b39bf1d5d0a9110fc390296d69"
 metafile = true
 
 [[files]]
+file = "mods/haybale-ported.pw.toml"
+hash = "32d4ebded99506abbc9916d5c46de08ae8fd03e2e34b72ace54905985819da30"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
@@ -728,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
+metafile = true
+
+[[files]]
+file = "mods/straw-golem-rebaled-updated.pw.toml"
+hash = "5b9485e4bd83661e92dbc54a1df2e89a546a6556be4f339194cfef6d41672689"
 metafile = true
 
 [[files]]

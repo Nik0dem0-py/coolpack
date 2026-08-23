@@ -1,0 +1,13 @@
+name = "Straw Golem Updated"
+filename = "Strawgolem-fabric-1.20.1-3.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lv51AjnX/versions/5SJsC2QX/Strawgolem-fabric-1.20.1-3.1.1.jar"
+hash-format = "sha512"
+hash = "5754f93abde3b22cf487e397a4f288ea5e32ddb6ace23cea5f845b26efb1ddf6c6738a1863a05b50e8a6d9faab9ed15e1761b3b2a56e07f0728ff82cc65b00cb"
+
+[update]
+[update.modrinth]
+mod-id = "Lv51AjnX"
+version = "5SJsC2QX"
