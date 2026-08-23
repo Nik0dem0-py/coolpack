@@ -1,13 +1,13 @@
 name = "Factory API"
-filename = "FactoryAPI-1.20.1-2.2.8-fabric.jar"
+filename = "FactoryAPI-1.20.1-2.2.9-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nkTZHOLD/versions/bRTwQ6ow/FactoryAPI-1.20.1-2.2.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/nkTZHOLD/versions/reTxWo6c/FactoryAPI-1.20.1-2.2.9-fabric.jar"
 hash-format = "sha512"
-hash = "d8ac172b334e99a4491ecfc610b4300b59e4e2f1d9c85bb3f2d278c2e8030c9aa437bd8ad5e970e9d84c23b2f69ff9dc5f6b31220b21ea2d1f2bf4e91e0aaf24"
+hash = "9a5d9d6496316bc89b6d0cae497da9407769f41dcde4033d25ba1e9f9a802c2bc05f8742a378c2b7b0f944ec4e07f653315285bc43d4d6058b1c793150490f1b"
 
 [update]
 [update.modrinth]
 mod-id = "nkTZHOLD"
-version = "bRTwQ6ow"
+version = "reTxWo6c"
