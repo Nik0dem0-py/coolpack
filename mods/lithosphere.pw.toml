@@ -1,13 +1,13 @@
 name = "Lithosphere"
-filename = "lithosphere-1.8.1.jar"
+filename = "lithosphere-1.8.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/Cu9qQGut/lithosphere-1.8.1.jar"
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/aatZx6pq/lithosphere-1.8.2.jar"
 hash-format = "sha512"
-hash = "bc5b3960ca2a2d7e3fa1e18c3d207b3ac0188fc409e60bf59514f63e51c021782f63ccd8f789939033367632e15a3aa98539a61a06bae7454cbca0b8b1e2bb82"
+hash = "a921f44c23ad32b3d295efa5e91425b06940cfec51cfb0263a288de889a1c09439f631dbed01c3d2ffeb6d56f1c52ebc1d5d8418e280330c36bf43773535f143"
 
 [update]
 [update.modrinth]
 mod-id = "iv9jp2k9"
-version = "Cu9qQGut"
+version = "aatZx6pq"

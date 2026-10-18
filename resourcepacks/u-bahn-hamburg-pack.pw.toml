@@ -1,13 +1,13 @@
 name = "U Bahn Hamburg Pack"
-filename = "u_bahn_hamburg_packV7-20260818-202616.zip"
+filename = "u_bahn_hamburg_packV19.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/srknmP5y/versions/8ndeJ6y1/u_bahn_hamburg_packV7-20260818-202616.zip"
+url = "https://cdn.modrinth.com/data/srknmP5y/versions/lEAF35LH/u_bahn_hamburg_packV19.zip"
 hash-format = "sha512"
-hash = "5e109fe5048d2c7518774fdb44a116e40e4482906fcd1373f828809a804f5f93ff1275d8c8d2cbe0c7945e7aeca2f4e20fd99b74bb1c63fcaffa47ca1f352a8d"
+hash = "96cd716cea966e9ef6b07bee53b7688e8d82e85f572bc3bc567010e3ffdaf95bd0fefd0550ffd56bdf7685fc2dfdc7d4dc7b8bdd0ef8140dfd41d1cd9dbdcfd4"
 
 [update]
 [update.modrinth]
 mod-id = "srknmP5y"
-version = "8ndeJ6y1"
+version = "lEAF35LH"

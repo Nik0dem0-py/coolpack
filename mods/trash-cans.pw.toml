@@ -1,13 +1,13 @@
 name = "Trash Cans"
-filename = "trashcans-1.1.0-fabric-mc1.20.4.jar"
+filename = "trashcans-1.1.1a-fabric-mc1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4QrnfueM/versions/aDxlenIy/trashcans-1.1.0-fabric-mc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/4QrnfueM/versions/JJTVcWnj/trashcans-1.1.1a-fabric-mc1.20.4.jar"
 hash-format = "sha512"
-hash = "e0afa9e3da4f4cf72a30e668086ac9defbc113b07214e2db8c7965ee99a28279582a5c86225efd090d7a2099f500cdfaff49ceabcf35ad96587a393ab553d204"
+hash = "e75f2bd8338f01b09907f53a706cdca404e6481b10d07b96525c0642317a946738ed3b031c55b563e410a4e0c4b306c3ef96d6c8d647ab9e8e6a092a29f2952f"
 
 [update]
 [update.modrinth]
 mod-id = "4QrnfueM"
-version = "aDxlenIy"
+version = "JJTVcWnj"
